@@ -1,0 +1,17 @@
+{
+	"PSN J02524671+4656470":{
+		"name":"PSN J02524671+4656470",
+		"sources":[
+			{
+				"bibcode":"### BIBCODE FOR NEW VALUE ###"
+			}
+		],
+		"discoverer":[
+			{
+				"value":"	Italian Supernovae Search Project,ISSP (Caimmi)",
+				"e_value":"### ERROR IN VALUE (if applicable) ###",
+				"u_value":"### VALUE'S UNIT (if applicable) ###"
+			}
+		]
+	}
+}
